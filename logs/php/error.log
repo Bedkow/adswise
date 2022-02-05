@@ -1,0 +1,6 @@
+[01-Feb-2022 23:11:06 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in D:\Data\Programming\Wordpress\local\adswise\app\public\wp-content\themes\adswise-theme\single.php on line 1
+[01-Feb-2022 23:11:06 UTC] PHP Stack trace:
+[01-Feb-2022 23:11:06 UTC] PHP   1. {main}() D:\Data\Programming\Wordpress\local\adswise\app\public\index.php:0
+[01-Feb-2022 23:11:06 UTC] PHP   2. require() D:\Data\Programming\Wordpress\local\adswise\app\public\index.php:17
+[01-Feb-2022 23:11:06 UTC] PHP   3. require_once() D:\Data\Programming\Wordpress\local\adswise\app\public\wp-blog-header.php:19
+[01-Feb-2022 23:11:06 UTC] PHP   4. include() D:\Data\Programming\Wordpress\local\adswise\app\public\wp-includes\template-loader.php:106
